@@ -1,2 +1,2 @@
-# mnist
-Implementations for MNIST dataset
+# Implementations for MNIST dataset
+* kkweon: https://github.com/kkweon/mnist-competition
